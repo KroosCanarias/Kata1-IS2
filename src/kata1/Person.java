@@ -31,5 +31,7 @@ public class Person {
         return (int) ((new Date().getTime()-birthDay.getTime())/MS_PER_YEAR);
     }
     //control shift abajo para copiar
-    //en el movil hay fotos de atajos de tecladobv
+    //en el movil hay foto de atajos de tecladobv
+    //CONTROL E SE BORRA LA LINEA SELECCIONADA
+    //control U y control L y luego pretar u o L respectivamente, sirve para poner en mayuscula o minuscula lo seleccionado
 }
