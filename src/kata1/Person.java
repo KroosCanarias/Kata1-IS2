@@ -31,5 +31,5 @@ public class Person {
         return (int) ((new Date().getTime()-birthDay.getTime())/MS_PER_YEAR);
     }
     //control shift abajo para copiar
-    
+    //en el movil hay fotos de atajos de teclado
 }
